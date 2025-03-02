@@ -1,4 +1,4 @@
-<h1 align="center" style="margin-top:20px; margin-bottom:50px;">
+<h1 align="center" style="margin-top:50px; margin-bottom:70px;">
 <img src="https://raw.githubusercontent.com/leseixas/fastelectrons/refs/heads/main/logo.png" style="height: 70px"></h1>
 
 [![License: MIT](https://img.shields.io/github/license/leseixas/fastelectrons?color=green&style=for-the-badge)](LICENSE)    [![PyPI](https://img.shields.io/pypi/v/fastelectrons?color=red&style=for-the-badge)](https://pypi.org/project/fastelectrons/)
